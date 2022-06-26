@@ -4,13 +4,13 @@
 }
 
 body {
-	background-color: #fff;
+	background-image:  url(background.jpg);
 }
 
 .max-width {
-	max-width: 500px;
+	max-width: 600px;
 	width: 100%;
-	padding: 10px;
+	padding: 100px;
 	box-sizing: border-box;
 	margin-top: 10%;
 	background-color: #FFF;
@@ -24,7 +24,7 @@ h1 {
 }
 
 button {
-	padding: 10px;
+	padding: 20px;
 	border: none;
 	outline: none;
 	font-family: 'Segoe UI';
@@ -32,7 +32,7 @@ button {
 	transition: all .5s;
 	cursor: pointer;
 	border-radius: 25px;
-	margin-top: 80px;
+	margin-top: 50px;
 }
 
 button:hover {

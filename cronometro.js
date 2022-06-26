@@ -1,6 +1,6 @@
 "use strict"
 var cron;
-var temp = 1000;
+var temp = 50;
 var s = 0;
 var m = 0;
 var h = 0;
